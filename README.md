@@ -5,10 +5,13 @@ API estruturada e desenvolvida em conjunto com o colaborador [Daniel Justo](http
 ---
 
 ## Preparações
-Para rodar a aplicação, entre no diretório da mesma e digite o seguinte comando no seu terminal.
+- Para rodar a aplicação, entre no diretório da mesma e digite o seguinte comando no seu terminal.
 ```cmd
 $ npm install 
 ```
+- Renomeie o arquivo .env.example para .env e configure as variáveis de ambiente.
+Lembre-se de realizar a conexão com um banco de dados **PostgreSQL**.
+
 ---
 
 ## **Visão Geral**
